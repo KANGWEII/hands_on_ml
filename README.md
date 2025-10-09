@@ -1,1 +1,1 @@
-# hands_on_ml
+# Hands-On Machine Learning
